@@ -217,7 +217,23 @@ const bigProjects = {
           url: "https://play.google.com/store/search?q=makai&c=apps&hl=en&gl=US"
         }
       ]
-    }
+    },
+    {
+      image: require("./assets/images/shn.png"),
+      projectName: "Smart Health Nepal",
+      projectDesc: "Smart Health Global is a registered non-profit organization dedicated to providing access to quality healthcare services among the most vulnerable and disadvantaged communities in remote areas of Nepal.",
+      footerLink: [
+        {
+          name: "Download App",
+          url: "https://play.google.com/store/apps/details?id=com.smarthealthnepal.customer&hl=en&gl=US",
+        },
+        //  you can add extra buttons here.
+        {
+          name:"Visit Website",
+          url:"https://smarthealthnepal.com/"
+         }
+      ]
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
