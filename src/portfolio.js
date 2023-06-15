@@ -22,10 +22,11 @@ const greeting = {
   subTitle: emoji(
     "A passionate Flutter Developer 🚀 having an experience of building android applications with flutter and dart and some other cool libraries and frameworks."
   ),
-  resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+  resumeLink: "/pdfs/amanadangol_resume.pdf", // Relative path to the PDF file
   displayGreeting: true // Set false to hide this section, defaults to true
 };
+
+
 
 // Social Media Links
 
