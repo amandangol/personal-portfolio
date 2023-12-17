@@ -20,7 +20,7 @@ const greeting = {
   username: "Aman Dangol",
   title: "Hi all, I'm Aman",
   subTitle: emoji(
-    "A passionate Flutter Developer 🚀 having an experience of building android applications with flutter and dart and some other cool libraries and frameworks."
+    "A passionate Flutter Developer 🚀 having an experience of building android applications with flutter, dart and some other cool libraries and frameworks."
   ),
   resumeLink: "/pdfs/amanadangol_resume.pdf", // Relative path to the PDF file
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -35,10 +35,10 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/amandangol/",
   gmail: "amand4ngol@gmail.com",
   // gitlab: "https://gitlab.com/",
-  facebook: "https://www.facebook.com/",
-  instagram: "https://www.instagram.com/amandsngol.xx/",
-  medium: "https://medium.com/@icrextha",
-  twitter: "https://twitter.com/amandsngol",
+  facebook: "https://www.facebook.com/amandsngol",
+  instagram: "https://www.instagram.com/amand4ngol.xx/",
+  // medium: "https://medium.com/@icrextha",
+  twitter: "https://twitter.com/atheodore_e",
   // stackoverflow: "https://stackoverflow.com/users/",
   
   display: true // Set true to display this section, defaults to false
@@ -95,10 +95,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "postman",
       fontAwesomeClassname: "fab fa-postman"
     },
-    // {
-    //   skillName: "sass",
-    //   fontAwesomeClassname: "fab fa-sass"
-    // },
+   
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
@@ -360,14 +357,14 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "saadpasta70@gmail.com"
+  number: "+977-9814759444",
+  email_address: "amand4ngol@gmail.com"
 };
 
 // Twitter Section
 
 const twitterDetails = {
-  userName: "amandsngol", //Replace "twitter" with your twitter username without @
+  userName: "amand4ngol", //Replace "twitter" with your twitter username without @
   display: true // Set true to display this section, defaults to false
 };
 
