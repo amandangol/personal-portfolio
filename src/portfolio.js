@@ -20,7 +20,7 @@ const greeting = {
   username: "Aman Dangol",
   title: "Hi all, I'm Aman",
   subTitle: emoji(
-    "A passionate Flutter Developer 🚀 having an experience of building android applications with flutter, dart and some other cool libraries and frameworks."
+    "A passionate Mobile Application Developer 🚀 having an experience of building android applications with flutter, dart and some other cool libraries and frameworks."
   ),
   resumeLink: "/pdfs/amanadangol_resume.pdf", // Relative path to the PDF file
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -37,10 +37,10 @@ const socialMediaLinks = {
   // gitlab: "https://gitlab.com/",
   facebook: "https://www.facebook.com/amandsngol",
   instagram: "https://www.instagram.com/amand4ngol.xx/",
-  // medium: "https://medium.com/@icrextha",
-  twitter: "https://twitter.com/atheodore_e",
+  medium: "https://medium.com/@amandangol",
+  twitter: "https://twitter.com/amand4ngol",
   // stackoverflow: "https://stackoverflow.com/users/",
-  
+
   display: true // Set true to display this section, defaults to false
 };
 
@@ -95,7 +95,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "postman",
       fontAwesomeClassname: "fab fa-postman"
     },
-   
+
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
@@ -104,7 +104,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
-    
+
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -129,7 +129,7 @@ const educationInfo = {
       logo: require("./assets/images/reliance.jpg"),
       subHeader: "Intermediate Education on Computer Science",
       duration: "September 2015 - April 2017",
-     
+
     }
   ]
 };
@@ -152,7 +152,7 @@ const techStack = {
       progressPercentage: "60%"
     }
   ],
-  displayCodersrank: false 
+  displayCodersrank: false
 };
 
 // Work experience section
@@ -171,7 +171,7 @@ const workExperiences = {
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       // ]
     },
-   
+
   ]
 };
 
@@ -200,9 +200,9 @@ const bigProjects = {
         },
         //  you can add extra buttons here.
         {
-          name:"Visit Website",
-          url:"https://sewakoyatra.com/"
-         }
+          name: "Visit Website",
+          url: "https://sewakoyatra.com/"
+        }
       ]
     },
     {
@@ -227,9 +227,9 @@ const bigProjects = {
         },
         //  you can add extra buttons here.
         {
-          name:"Visit Website",
-          url:"https://smarthealthnepal.com/"
-         }
+          name: "Visit Website",
+          url: "https://smarthealthnepal.com/"
+        }
       ]
     },
   ],
@@ -286,7 +286,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        { name: "Certification", url: "" },
         {
           name: "Final Project",
           url: "https://pakistan-olx-1.firebaseapp.com/"
